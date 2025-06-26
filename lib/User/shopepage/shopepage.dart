@@ -96,6 +96,11 @@ class _ShopepageState extends State<Shopepage> {
                 title: 'adfadfae',
                 description: 'wfwefwerf',
               ),
+              shopingCard(
+                icon: Icons.abc,
+                title: 'adfadfae',
+                description: 'wfwefwerf',
+              ),
             ],
           ),
         ],
